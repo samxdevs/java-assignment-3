@@ -1,0 +1,3 @@
+Hello! This is sample.txt.
+It is used to test the file reading programs.
+Java has byte streams and character streams.

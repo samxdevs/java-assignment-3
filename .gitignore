@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# Files created when you run the programs
+output.txt
+example.txt
+random_access.txt
+sample_copy.txt
+notes.txt
+
+# The original assignment document
+*.docx
+
+# macOS
+.DS_Store

@@ -1,0 +1,2 @@
+This is sample.txt for the File Handling programs.
+Use it to test copying (Q20).
